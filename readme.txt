@@ -1,12 +1,15 @@
-����ѧϰƽ̨С�����
+机器学习平台小软件搭建
 
-����python���Դ��һ������ѧϰƽ̨����Ƕ�˳����Ļ���ѧϰ������SVM��rfr, gbr������ƽ̨�����ڰ�������Ԥ�⣬�ı����࣬����������з����ȶ��ҵ�񳡾������谲װ���ø��ֻ�����ֻ�谴������ʵ���ϴ�ԭʼ���ݼ��ļ���ѡ������Ԥ����������ȱʡֵ��䣬���ݹ�һ������������֤����Ԥ��������ѡ�����ѧϰģ�ͣ���󵼳�����ļ���
+基于python语言搭建了一个机器学习平台，内嵌了常见的机器学习方法（SVM，rfr, gbr），此平台适用于包括数据预测，文本分类，电商评论情感分析等多个业务场景。无需安装配置各种环境，只需按照所附实例上传原始数据集文件，选择数据预处理方法（缺省值填充，数据归一化），根据验证集的预测结果择优选择机器学习模型，最后导出结果文件。
 
-���ݼ���k_train,k_test��������Ԥ��ģ�����
+数据集中k_train,k_test用于数据预测模块测试
 
-���ݼ���text_train,text_test,stopwords�����ı�����ģ�����
+数据集中text_train,text_test,stopwords用于文本分类模块测试
 
+exe版本已经上传到了云盘，链接如下，
 
+链接：https://pan.baidu.com/s/13YKzCpDvUnRpw--WPmSf_w
+提取码：r9ld
 
 
 
